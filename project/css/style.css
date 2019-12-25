@@ -1,0 +1,38 @@
+/* #test{
+    color:red;
+}
+
+.pragraf{
+    color: green;
+}
+
+.pblue{
+    color: blue;
+}
+
+.list #el{
+    color: red;
+}
+
+.list li{
+    color: red;
+}
+
+.parent p{
+    color: blue;
+}
+
+.text:hover{
+    color:red;
+}
+
+input[type="text"]{
+    border-color: red;
+} */
+
+.figur{
+    width: 25%;
+    height: 400px;
+    /* background-color: rgba(23,100,156,0.2); */
+    background-color: #10ABCD;
+}
